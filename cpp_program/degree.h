@@ -1,0 +1,1 @@
+enum DegreeProgram{DP_Software,DP_Security,DP_Network,DP_Done};
